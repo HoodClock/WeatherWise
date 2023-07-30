@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WeatherWise/static/css/main.2c053aa5.css",
+    "main.js": "/WeatherWise/static/js/main.d9fe2eca.js",
+    "static/media/image.jpg": "/WeatherWise/static/media/image.b73228d7a43abdba2c6b.jpg",
+    "index.html": "/WeatherWise/index.html",
+    "main.2c053aa5.css.map": "/WeatherWise/static/css/main.2c053aa5.css.map",
+    "main.d9fe2eca.js.map": "/WeatherWise/static/js/main.d9fe2eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c053aa5.css",
+    "static/js/main.d9fe2eca.js"
+  ]
+}
